@@ -1,4 +1,4 @@
-<div align="center"><img src="https://github.com/Nadeemx7/Nadeemx7/blob/main/Banner.png"></div>
+<div align="center"><img src="https://github.com/Nadeemx7/Nadeemx7/blob/main/Banner1.gif"></div>
 <h1>Hi there, I'm <a href="https://gkassym.netlify.app" target="_blank">Nadeem Siddiqui</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
 <h2>Glad to see you here!</h2>
 
