@@ -1,3 +1,22 @@
+<h1 align="center">Hi 👋, I'm Nadeem Siddiqui</h1>
+<h3 align="center">"Hello! 👋 I'm a passionate Full Stack Developer with a knack for crafting engaging web experiences. My journey started during my Bachelor's in Computer Science with a specialization in Cloud Technology and Information Security. Along the way, I've gained proficiency in HTML, CSS, JavaScript, React.js, Node.js, jQuery, Git, Github and Version Control – tools that allow me to bring ideas to life and create seamless user interfaces.
+</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nadeemx7&label=Profile%20views&color=0e75b6&style=flat" alt="nadeemx7" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nadeemx7" alt="nadeemx7" /></a> </p>
+
+- 🔭 I’m currently working on **3D Websites**
+
+- 🌱 I’m currently learning **Backend Development**
+
+- 👯 I’m looking to collaborate on **React.js Projects**
+
+- 💬 Ask me about **HTML, CSS, JavaScript and React.js**
+
+- 📫 How to reach me **n.sidd8@gmail.com**
+
+- ⚡ Fun fact **I think I am funny**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nadeem7) 
